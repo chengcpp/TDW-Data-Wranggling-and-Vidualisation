@@ -1,4 +1,4 @@
-# TDW-Data-Wranggling-and-Vidualisation
+# TDW 6323--Data-Wranggling-and-Vidualisation
 Data Wranggling and Visualisation Project
 
 Introduction
